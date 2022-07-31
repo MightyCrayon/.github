@@ -9,3 +9,5 @@ After seeing first hand the thousands of crayons that get thrown away after ever
 <!-- ///: Vijay Garg -->
 <!-- ///: -->
 <!-- ...you! We would really appreciate it if you/// rgb(255, 0, 0); -->
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
