@@ -1,4 +1,4 @@
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t31.18172-8/15068294_363656833988573_3277465761672805479_o.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=-inR9El1ql0AX9JUT0w&_nc_ht=scontent-sea1-1.xx&oh=00_AT8Zv3urHQ_k7_-BwNz_ATTJnEydAxtXewL6PBdLExmaZQ&oe=630B707B" alt="Mighty Crayon's Logo" style="width:800">
+<img src="https://user-images.githubusercontent.com/96280466/188334293-a7c871e0-b26c-40c8-9d79-ead50e318e73.png" alt="Mighty Crayon's Logo" style="width:800">
 
 # Who We Are
 Our mission is to encourage enjoyable and empowering experiences for children around the world through the use of recycled creative mediums.
